@@ -1,24 +1,35 @@
-# README
+# DiaryTraining　
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+過去の運動内容や、どの程度の負荷で筋トレをしていたか覚えていますか？
+その内容を記録として残し、仲間とシェアしよう！
 
-Things you may want to cover:
+### サイトテーマ
+運動記録や内容を投稿し、いつでも見返すことができる筋トレ好きの為のサイトです。
 
-* Ruby version
+### テーマを選んだ理由
+昨今コロナウイルスの影響で在宅が増え、運動不足解消として筋トレをする人が増えてきました。
+日々の運動内容を記録し、仲間で共有できればより良い内容の運動ができるかと思い
+このテーマを選びました。
 
-* System dependencies
+### ターゲットユーザ
+運動・筋トレが好きな方
 
-* Configuration
+### 主な利用シーン
+運動・筋トレをした時
 
-* Database creation
+## 設計書
 
-* Database initialization
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1SFTjRbbmSPh0u2Z3lW9IXhttJm6BPAh9smLky7FnnTk/edit?usp=sharing
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
